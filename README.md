@@ -1,3 +1,34 @@
+<!-- README visual refresh -->
+<div align="center">
+
+# 🚇 NeoMetro
+### Citizen reporting · Driver reports · Operational monitoring
+
+**A digital reporting experience for mobility and infrastructure incidents in the Bucaramanga metropolitan area.**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=171717)
+![Leaflet](https://img.shields.io/badge/Maps-Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)
+![n8n](https://img.shields.io/badge/Automation-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![AI](https://img.shields.io/badge/Analysis-AI%20assisted-137C78?style=flat-square)
+
+</div>
+
+## Product at a glance
+
+NeoMetro brings together three reporting surfaces and an automation workflow: a public portal, a driver-focused reporting page, and an administrative dashboard. The repository documents an n8n workflow that receives reports, processes incident information, and routes notifications.
+
+<div align="center">
+
+| Public portal | Monitoring dashboard |
+|:---:|:---:|
+| ![NeoMetro home](assets/screenshot_index.png) | ![NeoMetro dashboard](assets/screenshot_dashboard.png) |
+
+</div>
+
+**Explore:** [Architecture](#arquitectura-del-sistema) · [Features](#características-principales) · [Workflow](#2-automatización-con-n8n-cloud-my-workflowjson) · [Setup](#instrucciones-de-configuración-y-uso)
+
+---
+
 # NeoMetro: Portal Oficial de Reportes en Tiempo Real
 
 **NeoMetro** es un sistema integral e inteligente de reporte y gestión de novedades en tiempo real diseñado para el **Sistema Integrado de Transporte Masivo del Área Metropolitana de Bucaramanga (Metrolínea)**. 
